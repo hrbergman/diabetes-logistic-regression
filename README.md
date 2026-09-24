@@ -8,6 +8,4 @@ A logistic regression analysis examining which patient characteristics are assoc
 - Built a confusion matrix on an 80/20 split and showed that 71.8% accuracy came from a model predicting no diabetes cases at all
 - Recommended rebalancing techniques and imbalance-appropriate metrics as next steps
 
-[Documentation](https://github.com/hrbergman/postgresql-customer-services-query/blob/main/postgresql-customer-services-query/data-acquisition-documentation.pdf)
-| 
-[Video Presentation](https://youtu.be/jKOE0cG68rc)
+[Video Presentation](https://youtu.be/7nNRAb9Hd30)
